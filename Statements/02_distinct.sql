@@ -1,0 +1,6 @@
+SELECT DISTINCT * FROM users;
+
+SELECT DISTINCT name FROM users;
+
+SELECT DISTINCT surname FROM users;
+

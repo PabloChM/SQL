@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE email NOT LIKE "%hotmail.com" LIMIT 3;
